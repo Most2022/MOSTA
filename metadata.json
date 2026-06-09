@@ -1,0 +1,6 @@
+{
+  "name": "MOSTA - JEE Study Dashboard",
+  "description": "AI-Powered Daily Study Tracker & Planner for JEE preparation using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
